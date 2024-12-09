@@ -81,7 +81,7 @@ showNextParagraph();
 /*for hide msg after kaam finish*/
 setTimeout(() => {
     forYou.classList.add("hide")
-}, 63000);
+}, 61500);
 
 /*Cake work starts*/
 setTimeout(() => {
